@@ -59,7 +59,7 @@
     "dompurify": "^3.1.7",
     "dotenv": "^16.3.1",
     "font-awesome": "^4.7.0",
-    "happy-dom": "^12.10.3",
+    "happy-dom": "^20.0.2",
     "json-to-ast": "^2.1.0",
     "jsonpath": "^1.1.1",
     "lodash": "^4.17.21",
